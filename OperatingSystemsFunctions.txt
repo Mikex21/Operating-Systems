@@ -1,0 +1,4 @@
+One function an operating system can do is establish an internet connection.
+OS can establish wired or wireless connection such as cable, DSL, Wi-Fi, and satellite.
+Some connections can automatically configure upon connecting to the internet.
+While other connections require you to set it up manually. 
