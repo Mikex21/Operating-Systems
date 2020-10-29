@@ -1,4 +1,3 @@
-One function an operating system can do is establish an internet connection.
-OS can establish wired or wireless connection such as cable, DSL, Wi-Fi, and satellite.
-Some connections can automatically configure upon connecting to the internet.
-While other connections require you to set it up manually. 
+One function an operating system can do is establish an internet connection. OS can establish wired or wireless connection such as cable, DSL, Wi-Fi, and satellite. Some connections can automatically configure upon connecting to the internet. While other connections require you to set it up manually. 
+
+Another function of an operating system is it can configure devices. When a device such as a keyboard, mouse, or smartphone is connected to a computer via USB port. The OS loads the device driver and it is there where you will need to configure the device(s) to function properly. However, most new devices and operating systems support plug and play now, so the OS will automatically configures them when connected.
